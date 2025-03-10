@@ -1,0 +1,168 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 3
+Screen Width: 1925
+Screen Height: 956
+Local Time: 12:33:53 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 194.165.138.82
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 32.0060264024353
+Longitude: 35.83392442329458
+Map Location:  https://www.google.com/maps/place/32.0060264024353,35.83392442329458
+Google Earth:  https://earth.google.com/web/search/32.0060264024353,35.83392442329458
+------------------
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 9:33:58 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 9:33:58 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 9:33:59 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+
+User denied the Geolocation permision.
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 9:33:59 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 3
+Screen Width: 1925
+Screen Height: 956
+Local Time: 12:36:32 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 194.165.138.82
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 32.00601036392642
+Longitude: 35.83388696159204
+Map Location:  https://www.google.com/maps/place/32.00601036392642,35.83388696159204
+Google Earth:  https://earth.google.com/web/search/32.00601036392642,35.83388696159204
+------------------

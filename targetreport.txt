@@ -1,0 +1,110 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 2
+CPU Cores: 4
+Screen Width: 1280
+Screen Height: 673
+Local Time: 10:35:40 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 108.181.27.205
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 7:35:43 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 (+cloudflare.com) 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 800
+Screen Height: 600
+Local Time: 7:35:43 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+
+Target IP Detail
+----------------
+IP: 34.83.203.92
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 0.5
+CPU Cores: 3
+Screen Width: 1281
+Screen Height: 671
+Local Time: 10:36:44 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 194.165.138.82
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 32.006012057055564
+Longitude: 35.833908551225434
+Map Location:  https://www.google.com/maps/place/32.006012057055564,35.833908551225434
+Google Earth:  https://earth.google.com/web/search/32.006012057055564,35.833908551225434
+------------------
